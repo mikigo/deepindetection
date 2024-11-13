@@ -1,0 +1,91 @@
+{
+  "images": [
+    {
+      "file_name": "20241104100838.jpg",
+      "height": 1079,
+      "width": 1919,
+      "id": 20241104100838
+    },
+    {
+      "file_name": "20241104095835.jpg",
+      "height": 1080,
+      "width": 1920,
+      "id": 20241104095835
+    }
+  ],
+  "type": "instances",
+  "annotations": [
+    {
+      "area": 1020,
+      "iscrowd": 0,
+      "image_id": 20241104100838,
+      "bbox": [
+        3,
+        1044,
+        34,
+        30
+      ],
+      "category_id": 1,
+      "id": 1,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 840,
+      "iscrowd": 0,
+      "image_id": 20241104100838,
+      "bbox": [
+        128,
+        1044,
+        28,
+        30
+      ],
+      "category_id": 0,
+      "id": 2,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 1722,
+      "iscrowd": 0,
+      "image_id": 20241104095835,
+      "bbox": [
+        1872,
+        8,
+        41,
+        42
+      ],
+      "category_id": 1,
+      "id": 3,
+      "ignore": 0,
+      "segmentation": []
+    },
+    {
+      "area": 1521,
+      "iscrowd": 0,
+      "image_id": 20241104095835,
+      "bbox": [
+        1872,
+        181,
+        39,
+        39
+      ],
+      "category_id": 0,
+      "id": 4,
+      "ignore": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "none",
+      "id": 0,
+      "name": "dde_file_manager_icon"
+    },
+    {
+      "supercategory": "none",
+      "id": 1,
+      "name": "dde_launcher_icon"
+    }
+  ]
+}
