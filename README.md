@@ -1,11 +1,12 @@
 # DeepinDetection
 
-Based on MMDetection, use FasterRCNN,ready to train on Deepin dataset.
+Based on MMDetection, use FasterRCNN, ready to train on Deepin/UOS dataset.
 
-config file:
+## config file 
+[configs/deepin/faster-rcnn_r101_fpn_2x_coco.py](configs/deepin/faster-rcnn_r101_fpn_2x_coco.py) :
 
 ```python
-# [faster-rcnn_r101_fpn_2x_coco.py](configs/deepin/faster-rcnn_r101_fpn_2x_coco.py)
+# 
 
 _base_ = './faster-rcnn_r50_fpn_2x_coco.py'
 
